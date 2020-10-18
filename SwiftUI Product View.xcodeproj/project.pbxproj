@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1040E5592539E9B7005E9D32 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1040E5582539E9B7005E9D32 /* CardView.swift */; };
 		1086385F2539B68700718F8E /* SwiftUI_Product_ViewApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1086385E2539B68700718F8E /* SwiftUI_Product_ViewApp.swift */; };
 		108638612539B68700718F8E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 108638602539B68700718F8E /* ContentView.swift */; };
 		108638632539B68900718F8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 108638622539B68900718F8E /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1040E5582539E9B7005E9D32 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		1086385B2539B68700718F8E /* SwiftUI Product View.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Product View.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1086385E2539B68700718F8E /* SwiftUI_Product_ViewApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Product_ViewApp.swift; sourceTree = "<group>"; };
 		108638602539B68700718F8E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				1086385E2539B68700718F8E /* SwiftUI_Product_ViewApp.swift */,
 				108638602539B68700718F8E /* ContentView.swift */,
+				1040E5582539E9B7005E9D32 /* CardView.swift */,
 				108638622539B68900718F8E /* Assets.xcassets */,
 				108638672539B68900718F8E /* Info.plist */,
 				108638642539B68900718F8E /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				108638612539B68700718F8E /* ContentView.swift in Sources */,
+				1040E5592539E9B7005E9D32 /* CardView.swift in Sources */,
 				1086385F2539B68700718F8E /* SwiftUI_Product_ViewApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
